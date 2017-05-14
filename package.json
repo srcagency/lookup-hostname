@@ -1,0 +1,10 @@
+{
+	"name": "lookup-hostname",
+	"version": "1.0.0",
+	"description": "Resolve a hostname on the command line like your OS does",
+	"repository": "srcagency/lookup-hostname",
+	"bin": {
+		"lookup": "./index.js"
+	},
+	"license": "MIT"
+}
